@@ -43,8 +43,7 @@ namespace _01_Projeto_Udemy.Telas
 			foreach (Cliente c in listaClientes)
 			{
 				WriteLine("Cliente numero " + ++indice + ":");
-				WriteLine(c.nome);
-				//c.ExibeInformacao();
+				c.ExibeInformacao();
 			}
 			ReadKey(false);
 		}

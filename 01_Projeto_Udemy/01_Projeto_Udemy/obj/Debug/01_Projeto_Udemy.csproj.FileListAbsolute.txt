@@ -11,3 +11,16 @@ C:\Users\THIAGO\Documents\Projetos VS\01_Projeto_Udemy\01_Projeto_Udemy\obj\Debu
 C:\Users\THIAGO\Documents\Projetos VS\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\Newtonsoft.Json.dll
 C:\Users\THIAGO\Documents\Projetos VS\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\THIAGO\Documents\Projetos VS\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\01_Projeto_Udemy.exe.config
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\01_Projeto_Udemy.exe
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\01_Projeto_Udemy.pdb
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\Biblioteca.dll
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\Biblioteca.pdb
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\obj\Debug\01_Projeto_Udemy.csprojAssemblyReference.cache
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\obj\Debug\01_Projeto_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\obj\Debug\01_Projeto_Udemy.csproj.CopyComplete
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\obj\Debug\01_Projeto_Udemy.exe
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\01_Projeto_Udemy\obj\Debug\01_Projeto_Udemy.pdb

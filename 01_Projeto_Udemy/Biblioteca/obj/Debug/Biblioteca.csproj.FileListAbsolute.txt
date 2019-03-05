@@ -4,3 +4,9 @@ C:\Users\THIAGO\Documents\Projetos VS\01_Projeto_Udemy\Biblioteca\obj\Debug\Bibl
 C:\Users\THIAGO\Documents\Projetos VS\01_Projeto_Udemy\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
 C:\Users\THIAGO\Documents\Projetos VS\01_Projeto_Udemy\Biblioteca\obj\Debug\Biblioteca.dll
 C:\Users\THIAGO\Documents\Projetos VS\01_Projeto_Udemy\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\THIAGO\Desktop\GitPasta\ProjetoEstudoCSharp\01_Projeto_Udemy\Biblioteca\obj\Debug\Biblioteca.pdb

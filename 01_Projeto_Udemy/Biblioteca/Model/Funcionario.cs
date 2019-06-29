@@ -44,8 +44,6 @@ namespace Biblioteca.Model
 			dataContratacao = DataInput.ReturnDate("Entre com a data de contratação");
 			cargo = DataInput.ReturnString("Entre com o cargo");
 			salario = DataInput.ReturnInt("Entre com o salario");
-
-
 		}
 	}
 }

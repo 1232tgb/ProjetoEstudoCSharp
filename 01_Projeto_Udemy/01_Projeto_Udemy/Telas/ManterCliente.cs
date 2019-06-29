@@ -1,11 +1,7 @@
 ﻿using Biblioteca.Converters;
 using Biblioteca.Exports;
 using Biblioteca.Model;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using static System.Console;
 
 namespace _01_Projeto_Udemy.Telas
@@ -50,9 +46,7 @@ namespace _01_Projeto_Udemy.Telas
 
 		public void EnviarLista()
 		{
-
 			ConvertClass.convertPersonToString(listaClientes);
-
 		}
 
 
@@ -60,7 +54,6 @@ namespace _01_Projeto_Udemy.Telas
 		{
 			if (GerenciadorArquivo.IsThereFile("clientes.txt"))
 			{
-
 				Cliente[] clientes = ConvertClass.convertStringToClient();
 
 				if (clientes.Length > 0)

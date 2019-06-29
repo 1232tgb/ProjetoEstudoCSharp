@@ -45,7 +45,6 @@ namespace Biblioteca.DataEnter
 				catch (Exception e)
 				{
 					Write($"Dados Inválidos:{e.Message}");
-
 				}
 			}
 		}

@@ -30,7 +30,7 @@ namespace Biblioteca.Converters
 					str += "\r\n";
 				}
 			}
-			GerenciadorArquivo.SaveFile("clientes", str);
+			GerenciadorArquivo.SaveFileNote("clientes", str);
 		}
 
 
@@ -59,7 +59,7 @@ namespace Biblioteca.Converters
 
 				}
 			}
-			GerenciadorArquivo.SaveFile("funcionarios", str);
+			GerenciadorArquivo.SaveFileNote("funcionarios", str);
 		}
 
 

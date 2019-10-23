@@ -9,7 +9,7 @@ namespace Biblioteca.Exports
 {
 	public class GerenciadorArquivo
 	{
-		public static void SaveFile(string nome, string dados)
+		public static void SaveFileNote(string nome, string dados)
 		{
 			//string path = nome + ".txt";
 			string path = @"../../../Biblioteca/Docs/" + nome + ".txt";
